@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0791581e1374da1875ef1b52e5e1e70, type: 3}
+  m_Name: Race Configs Container
+  m_EditorClassIdentifier: 
+  _folderToLoad: {fileID: 102900000, guid: bbe9aabea863826479ed02fbc2989cb1, type: 3}
+  _raceConfigs:
+  - {fileID: 11400000, guid: bceba924300ff1d46aa13998a664bffa, type: 2}
+  - {fileID: 11400000, guid: 308a9bbcd73475a43a6f04f608e67573, type: 2}
+  - {fileID: 11400000, guid: e231bd9951b2ad348a63636adace0c17, type: 2}
+  - {fileID: 11400000, guid: 6e9779e0d44d5ab42a05ea6678a23f8a, type: 2}

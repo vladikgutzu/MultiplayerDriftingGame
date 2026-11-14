@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8884ef4b0ed74513b78b869a416485db, type: 3}
+  m_Name: 2(FreeRoad) Free Road
+  m_EditorClassIdentifier: 
+  _raceId: 2
+  _constantId: 1
+  _raceType: 0
+  _raceDifficulty: 0
+  _raceName: Free Road
+  _trackReference:
+    m_AssetGUID: e9fa3058c3b1b8641b9b7db575248b73
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
