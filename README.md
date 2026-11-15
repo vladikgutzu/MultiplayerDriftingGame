@@ -2,7 +2,7 @@
 
 Portfolio source snapshot of a Unity driving and drifting project with multiplayer-oriented systems, race construction, progression, customization, and reusable game infrastructure.
 
-Подробный стек и архитектурные решения: [TECHNOLOGIES.md](TECHNOLOGIES.md).
+For a detailed technology stack and architectural overview, see [TECHNOLOGIES.md](TECHNOLOGIES.md).
 
 ## Highlights
 
